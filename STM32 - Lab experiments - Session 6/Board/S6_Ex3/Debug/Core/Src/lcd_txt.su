@@ -1,0 +1,4 @@
+lcd_txt.c:6:6:lcd_init	8	static
+lcd_txt.c:27:6:lcd_write	16	static
+lcd_txt.c:110:6:lcd_puts	16	static
+lcd_txt.c:155:6:lcd_clear	8	static
