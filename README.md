@@ -8,4 +8,4 @@ Link to Youtube video recordings of lab experiments: https://www.youtube.com/pla
 
 Link to open-source STM32G0 dev board used in this course: https://github.com/HexabitzPlatform/HG0B1CEU-Hardware
 
-![1 (2)](https://github.com/HexabitzPlatform/STM32-Lab/assets/83840157/b5c156a1-97df-4d95-a0d9-e50fe0cbdf9f)
+![1 (2)](https://hexabitz.com/wp-content/uploads/2024/02/1-4.jpg)
