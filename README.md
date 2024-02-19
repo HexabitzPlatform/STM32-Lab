@@ -7,3 +7,5 @@ Link to course class lectures: https://github.com/HexabitzPlatform/STM32-Course
 Link to Youtube video recordings of lab experiments: https://www.youtube.com/playlist?list=PLx3wo2dbJbhAg3boewo9rFS50sXH9T3a_
 
 Link to open-source STM32G0 dev board used in this course: https://github.com/HexabitzPlatform/HG0B1CEU-Hardware
+
+![](https://hexabitz.com/wp-content/uploads/2024/02/1-4.jpg)
